@@ -14,7 +14,7 @@ export default function Home() {
           <Image fill src={logo} alt="" />
         </div>
         <p className=" mt-6 font-semibold text-3xl text-gray-900  ">
-          Comming Soon ...
+          Something Incredible Is Brewing..
         </p>
       </div>
     </main>
